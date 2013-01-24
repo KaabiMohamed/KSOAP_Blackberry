@@ -1,0 +1,25 @@
+MIDlet-Name: SAOP
+MIDlet-Version: 1.0.1
+MIDlet-Vendor: Kaabi Rachid CO
+MIDlet-Jar-URL: SAOP.jar
+MIDlet-Jar-Size: 383666
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Collaboration Of Masses,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: SAOP.cod
+RIM-COD-Size: 58284
+RIM-COD-Creation-Time: 1357067173
+RIM-COD-Module-Name: SAOP
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: e2 6b 8f 91 d3 f3 95 29 d8 04 1e 87 de b8 55 e3 2c de 3a cb
+RIM-COD-URL-1: SAOP-1.cod
+RIM-COD-Size-1: 61892
+RIM-COD-SHA1-1: 8f 06 a8 cb 3a b8 9e 19 0a 79 38 fe 54 ce 78 cc e2 50 73 a5
+RIM-COD-URL-2: SAOP-2.cod
+RIM-COD-Size-2: 61840
+RIM-COD-SHA1-2: 0b 9d ad 0a e5 1d b8 a6 3a 04 75 8a 7b 32 d6 7e 69 a2 9e 0a
+RIM-COD-URL-3: SAOP-3.cod
+RIM-COD-Size-3: 24404
+RIM-COD-SHA1-3: 36 ce f2 22 f9 ac 92 3e 7f 27 4b 75 7c cf 35 64 99 82 9a ac

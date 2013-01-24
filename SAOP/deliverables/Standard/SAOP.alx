@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="SAOP">
+		<name >
+			Collaboration Of Masses
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.1
+		</version>
+		<vendor >
+			Kaabi Rachid CO
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 Kaabi Rachid CO
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				SAOP.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

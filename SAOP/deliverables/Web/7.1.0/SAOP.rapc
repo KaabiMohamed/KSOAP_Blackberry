@@ -1,0 +1,10 @@
+MIDlet-Name: SAOP
+MIDlet-Version: 1.0.1
+MIDlet-Vendor: Kaabi Rachid CO
+MIDlet-Jar-URL: SAOP.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Collaboration Of Masses,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+
